@@ -1,0 +1,10 @@
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\bin\Debug\Labash.exe.config
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\bin\Debug\Labash.exe
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\bin\Debug\Labash.pdb
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\obj\Debug\Labash.csprojAssemblyReference.cache
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\obj\Debug\Labash.Labash.resources
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\obj\Debug\Labash.Properties.Resources.resources
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\obj\Debug\Labash.csproj.GenerateResource.cache
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\obj\Debug\Labash.csproj.CoreCompileInputs.cache
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\obj\Debug\Labash.exe
+C:\Users\iell\OneDrive\Рабочий стол\Labash\Labash\obj\Debug\Labash.pdb
